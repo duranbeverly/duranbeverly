@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Beverly from Virginia, USA. I am a Dominican-American techie and activist who believes technology can create equitable, accountable, and honest communities. Studying software engineering at App Academy has equipped me with the skills to build impactful software solutions that prioritize individuals. I aim to use my perspective and experience to create technology that serves marginalized communities and to make a positive impact. Check out my projects here: https://www.beverlyduran.com/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duranbeverly)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **duranbeverly/duranbeverly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
