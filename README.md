@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Beverly
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Dev;Frontend+dev;UX+/+UI+designer;foodie+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Dev;Frontend+Dev;UX+/+UI+Designer;Foodie+enthusiast)](https://git.io/typing-svg)
 
 I am a Dominican-American techie and activist, residing in Virginia, USA who believes technology can create equitable, accountable, and honest communities. I aim to use my perspective and experience to create technology that serves marginalized communities and to make a positive impact. 
 
